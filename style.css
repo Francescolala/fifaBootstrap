@@ -1,0 +1,43 @@
+.back{
+    width: 100%;
+    height: 100vh;
+   background-image: url("img/sfondo.jpg");
+   background-size: cover;
+}
+.colore{
+    background-color: #f3f1f8;
+}
+.titolo{
+  margin-top: 100px; 
+  margin-bottom: 50px; 
+  font-family: Arial;
+  font-size: 30px;
+  text-align: center;
+  
+}
+.dd{
+    font-family: Arial;
+    text-align: center;
+    font-size: 40px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sfondo{
+  width: 100%;
+  height: 100vh;
+  background-image: url("img/ultimate.jpg");  
+  background-position: center;
+  background-size: cover;
+  margin-top: 20px;
+}
+.ombra{
+  box-shadow: 10px 10px 5px #221f2c;
+}
+.grandezza1{
+  font-family: Arial;
+  font-size: 50px;
+}   
+
+    
